@@ -22,7 +22,7 @@ var (
 		WriteBufferSize: 1024,
 	}
 
-	secretKey = []byte("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")
+	secretKey = []byte("")
 )
 
 type User struct {
